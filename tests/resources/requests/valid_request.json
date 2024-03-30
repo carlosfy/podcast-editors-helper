@@ -1,0 +1,10 @@
+{
+    "tasks": [
+      {
+        "folder": "/tests/resources/media",
+        "file": "audio-test.m4a",
+        "speaker": "madre",
+        "model": "tiny"
+      }
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+    "tasks": [
+      {
+        "folder_path": "./resources/media",
+        "audio_file": "audio-test.m4a",
+        "language": "English"
+      }
+    ]
+}
