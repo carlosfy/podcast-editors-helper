@@ -2,3 +2,4 @@ whisper-env
 __pycache__
 logs.txt
 request.json
+tests/resources/media
